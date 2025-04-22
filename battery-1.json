@@ -1,0 +1,12 @@
+{
+  "bess": true,
+  "unitsAvailable": 6,
+  "maxPowerAvailable": 10350.0,
+  "minPowerAvailable": -10350.0,
+  "setpoint": 0.0,
+  "actualPower": 6.8,
+  "capacity": 20643.8,
+  "soc": 0.51,
+  "timeSinceDischarge": 190,
+  "timeSinceCharge": 10
+}
