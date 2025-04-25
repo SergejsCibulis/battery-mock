@@ -7,6 +7,7 @@
   "actualPower": 6.8,
   "capacity": 20643.8,
   "soc": 0.75,
-  "timeSinceDischarge": 190,
-  "timeSinceCharge": 15
+  "timeSinceLastCharge": 16364,
+  "timeSinceLastDischarge": 47438,
+  "timeSinceLastIdle": 0
 }
